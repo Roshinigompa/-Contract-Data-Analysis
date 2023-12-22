@@ -7,9 +7,9 @@ This repository contains Python code and Jupyter notebooks for analyzing contrac
 The raw data files for each fiscal year are available for download from the following locations:
 
 FY23:[ Download Link]( https://umbc.box.com/shared/static/au8h309qptksq5wlem6g5onn5v13fsrc.csv)
-FY22:[ Download Link]([url](https://umbc.box.com/shared/static/tdkmuj86qm2uxhvjlfkav2i3pnx9fkoa.csv))
-FY21: [Download Link]([url](https://umbc.box.com/shared/static/7emabgf9ck2afprmrl459jnk30ewmabj.csv))
-FY20: [Download Link]([url](https://umbc.box.com/shared/static/91lmieun5u1e8p87wmlnuglyzl3xm91h.csv))
+FY22:[ Download Link](https://umbc.box.com/shared/static/tdkmuj86qm2uxhvjlfkav2i3pnx9fkoa.csv)
+FY21: [Download Link](https://umbc.box.com/shared/static/7emabgf9ck2afprmrl459jnk30ewmabj.csv)
+FY20: [Download Link](https://umbc.box.com/shared/static/91lmieun5u1e8p87wmlnuglyzl3xm91h.csv)
 Additionally, a data dictionary describing the fields in the dataset is available here.
 
 **Setup and Environment**
